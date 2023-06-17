@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 - 👋 Hi, I’m Derek!
 - 👀 I am a Mobile App Developer.
