@@ -6,7 +6,7 @@
 - 💞️ I’m looking for employment as an iOS or Flutter Developer!
 - 📫 How to reach me: dk@derek.kim
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derekhskim&" alt="derekhskim" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=derekhskim)](https://git.io/streak-stats)
 
 # Blog posts
 
