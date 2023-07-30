@@ -46,3 +46,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhskim&layout=donut)
+
+![](https://komarev.com/ghpvc/?username=derekhskim&color=292983)
