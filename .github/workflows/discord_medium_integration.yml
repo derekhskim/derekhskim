@@ -1,0 +1,25 @@
+name: Notify Discord about Blog Posts
+
+on: 
+  schedule:
+    - cron: '* * * * *'
+
+jobs: 
+  notify-discord: 
+    name: Notify Discord about latest blog posts
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Retrieve blog posts
+        id: blog_posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with: 
+          max_post_count: "1"  # Fetch only the latest post
+          feed_list: "https://derekhskim.medium.com/feed"
+      
+      - name: Notify Discord
+        run: |
+          MESSAGE="📢 New Blog Post: ${steps.blog_posts.outputs.title} - ${steps.blog_posts.outputs.url}"  # Modify the emoji and message as needed
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"$MESSAGE\"}" \
+               ${{ secrets.DISCORD_WEBHOOK_URL }}
