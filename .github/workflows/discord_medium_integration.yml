@@ -17,10 +17,10 @@ jobs:
           max_post_count: "1"
           feed_list: "https://derekhskim.medium.com/feed"
           output_only: true
-      
+
       - name: Notify Discord
         run: |
-          MESSAGE="📢 New Blog Post: ${steps.blog_posts.outputs.title} - ${steps.blog_posts.outputs.url}"
+          MESSAGE="📢 New Blog Post: ${steps.blog_posts.outputs.title} - ${steps.blog_posts.outputs.url}"  
           curl -H "Content-Type: application/json" \
                -X POST \
                -d "{\"content\": \"$MESSAGE\"}" \
