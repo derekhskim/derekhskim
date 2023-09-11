@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/derekhskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derekhskim" height="30" width="40" /></a>
 <a href="https://derekhskim.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@derekhskim" height="30" width="40" /></a>
-<a href="https://derek.kim" target="blank"><img align="center" src="https://derek.kim/assets/logo-9091cdba.svg" alt="@derekkim" height="30" width="40" /></a>
+<a href="https://derek.kim" target="blank"><img align="center" src="https://derek.kim/assets/logo-20c7f6a7.svg" alt="@derekkim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
