@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Derek!
 - 👀 I am a Mobile App Developer.
 - 🌱 I specialize in Flutter/Dart/Swift(UIKit)/SwiftUI.
-- 💞️ I’m looking for employment as an iOS or Flutter Developer!
 - 📫 How to reach me: dk@derek.kim
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=derekhskim&theme=swift)](https://streak-stats.demolab.com?user=derekhskim&theme=swift)
