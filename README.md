@@ -5,7 +5,7 @@
 - 🌱 I specialize in Flutter/Dart/Swift(UIKit)/SwiftUI.
 - 📫 How to reach me: dk@derek.kim
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=derekhskim&theme=swift)](https://streak-stats.demolab.com?user=derekhskim&theme=swift)
+[![GitHub Streak](https://github-readme-streak-stats-eight-indol.vercel.app?user=derekhskim&theme=swift)](https://git.io/streak-stats)
 
 # Blog posts
 
