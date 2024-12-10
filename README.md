@@ -1,8 +1,8 @@
 ![Header](./header-image.png)
 
 - 👋 Hi, I’m Derek!
-- 👀 I am a Mobile App Developer.
-- 🌱 I specialize in Flutter/Dart/Swift(UIKit)/SwiftUI.
+- 👀 I am an iOS Developer.
+- 🌱 I specialize in Swift(UIKit)/SwiftUI.
 - 📫 How to reach me: dk@derek.kim
 
 [![GitHub Streak](https://github-readme-streak-stats-eight-indol.vercel.app?user=derekhskim&theme=swift)](https://github-readme-streak-stats-eight-indol.vercel.app?user=derekhskim&theme=swift)
